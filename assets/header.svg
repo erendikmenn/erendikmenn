@@ -1,29 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340" role="img" aria-labelledby="title desc">
-<title id="title">Mehmet Eren Dikmen</title>
-<desc id="desc">AI systems, open-source experiments and ErenAILab. A technical flight-path illustration connects engineering and exploration.</desc>
-<defs>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b5d7e7" stroke-opacity=".055"/></pattern>
-  <clipPath id="clip"><rect width="1100" height="340" rx="18"/></clipPath>
-</defs>
-<g clip-path="url(#clip)">
-<rect width="1100" height="340" fill="#102637"/>
-<rect width="1100" height="340" fill="url(#grid)"/>
-<path d="M0 339H1100" stroke="#5dbbb4" stroke-width="3"/>
-<g fill="none" stroke="#8fb4c9">
-  <circle cx="910" cy="170" r="119" opacity=".18"/>
-  <circle cx="910" cy="170" r="82" opacity=".16"/>
-  <circle cx="910" cy="170" r="44" opacity=".14"/>
-  <path d="M910 33V307M772 170H1048" opacity=".2"/>
-  <path d="M792 245C836 245 837 104 918 104S1010 186 1044 91" stroke="#79d4ca" stroke-width="2.5"/>
-  <path d="M792 245C850 274 954 273 1026 233" stroke-dasharray="4 7" opacity=".5"/>
-</g>
-<circle cx="792" cy="245" r="5" fill="#79d4ca"/>
-<g transform="translate(986 145) rotate(37)" fill="#e5f1f4"><path d="M0-24L5-5L23 8V13L4 5L3 20L10 25V28L0 24L-10 28V25L-3 20L-4 5L-23 13V8L-5-5Z"/></g>
-<text x="51" y="61" fill="#88d5cf" font-family="Menlo,Consolas,monospace" font-size="13" letter-spacing="3">ERENAILAB / ENGINEERING &amp; EXPLORATION</text>
-<text x="48" y="139" fill="#f0f5f8" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" letter-spacing="-1.5">Mehmet Eren Dikmen</text>
-<text x="51" y="188" fill="#c0d2de" font-family="Arial,Helvetica,sans-serif" font-size="24">Building AI systems. Sharing the process.</text>
-<path d="M51 226H109" stroke="#79d4ca" stroke-width="3"/>
-<text x="51" y="270" fill="#9fb8ca" font-family="Menlo,Consolas,monospace" font-size="14" letter-spacing="1">AI AGENTS  /  OPEN SOURCE  /  CREATIVE CODE</text>
-<text x="910" y="314" fill="#7a9bac" text-anchor="middle" font-family="Menlo,Consolas,monospace" font-size="10" letter-spacing="2">EXPLORE · BUILD · SHARE</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-labelledby="title desc">
+  <title id="title">Hey, I'm Eren.</title>
+  <desc id="desc">I build things with AI and share what I learn. ErenAILab.</desc>
+  <rect width="1100" height="320" fill="#191919"/>
+  <text x="60" y="62" fill="#b3b0aa" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="16" font-weight="500">ErenAILab</text>
+  <text x="56" y="169" fill="#f5f3ee" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="88" font-weight="700" letter-spacing="-4">Hey, I’m <tspan fill="#ed956c">Eren.</tspan></text>
+  <text x="61" y="230" fill="#c6c3bd" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="27" font-weight="400">I build things with AI and share what I learn.</text>
 </svg>
