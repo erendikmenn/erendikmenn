@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@ErenAILab"><img src="assets/youtube.svg" height="36" alt="YouTube · ErenAILab" /></a>
   <a href="https://x.com/erenailab"><img src="assets/x.svg" height="36" alt="X · ErenAILab" /></a>
-  <a href="https://mehmeterendikmen.com/en"><img src="assets/website.svg" height="36" alt="Personal website" /></a>
+  <a href="https://erenailab.com"><img src="assets/website.svg" height="36" alt="Personal website" /></a>
   <a href="https://www.linkedin.com/in/mehmet-eren-dikmen"><img src="assets/linkedin.svg" height="36" alt="LinkedIn" /></a>
 </p>
 
@@ -76,4 +76,4 @@ ErenAILab'da denediğim araçları, öğrendiklerimi ve geliştirdiğim projeler
 
 ---
 
-<p align="center"><a href="https://mehmeterendikmen.com/en">More about my work</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/mehmet-eren-dikmen">Let's connect</a></p>
+<p align="center"><a href="https://erenailab.com">More about my work</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/mehmet-eren-dikmen">Let's connect</a></p>
